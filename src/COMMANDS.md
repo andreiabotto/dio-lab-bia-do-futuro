@@ -149,3 +149,14 @@ PRODUTOS DISPONÍVEIS?
 
 Pergunta:
 Onde estou gastando mais?
+
+---------------------------
+
+pip freeze > requirements.txt
+
+-------------------------
+
+Agora, precido de ajuda para criar um roteiro de pitch (3 minutos) para apresentar o Vinco, para isto preciso responder estas perguntas:
+- Qual dor do cliente você resolve?
+- Como seu agente resolve esse problema?
+- Por que essa solução é inovadora e qual é o impacto dela na sociedade?
